@@ -18,6 +18,7 @@ import scipy.stats as stats
 import os
 import pickle
 import mol_utils
+import sys
 
 basepath = os.getcwd()+'/'
 sys.path.append(basepath)

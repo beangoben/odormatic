@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import scipy.stats as stats
 import pickle
 import numpy as np
-import os
+import sys
 import mol_utils as mu
 
 basepath = os.getcwd()+'/'
